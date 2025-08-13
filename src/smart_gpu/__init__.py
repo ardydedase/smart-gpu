@@ -21,8 +21,8 @@ from ._gpu_utils import (
 )
 
 __version__ = "0.1.0"
-__author__ = "Smart GPU Team"
-__email__ = "team@smart-gpu.com"
+__author__ = "Ardy Dedase"
+__email__ = "ardy.dedase@gmail.com"
 
 __all__ = [
     "detect_gpu_hardware",

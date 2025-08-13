@@ -7,14 +7,14 @@ name = "smart-gpu"
 version = "0.1.0"
 description = "Simple GPU/CPU mode switching utilities with automatic detection"
 readme = "README.md"
-license = {text = "MIT"}
+license = "MIT"
 authors = [
-    {name = "Smart GPU Team", email = "team@smart-gpu.com"}
+    {name = "Ardy Dedase", email = "ardy.dedase@gmail.com"}
 ]
 classifiers = [
     "Development Status :: 4 - Beta",
     "Intended Audience :: Developers",
-    "License :: OSI Approved :: MIT License",
+
     "Programming Language :: Python :: 3",
     "Programming Language :: Python :: 3.8",
     "Programming Language :: Python :: 3.9",

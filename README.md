@@ -322,6 +322,12 @@ python -m pytest tests/ --cov=smart_gpu --cov-report=html
 6. Check code coverage and maintain or improve it
 7. Submit a pull request
 
+## Publishing
+
+For information on publishing this package to PyPI, see:
+- [PyPI Setup Guide](PYPI_SETUP.md) - How to set up authentication tokens
+- [Publishing Guide](PUBLISHING.md) - Complete publishing workflow
+
 ## License
 
 MIT License - see LICENSE file for details.
